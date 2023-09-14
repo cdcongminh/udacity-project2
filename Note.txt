@@ -1,1 +1,1 @@
-Test: http://uda-env.eba-zxbxiyag.us-east-1.elasticbeanstalk.com/
+Test: http://udacityproject-env.eba-petsuvbu.us-east-1.elasticbeanstalk.com/
